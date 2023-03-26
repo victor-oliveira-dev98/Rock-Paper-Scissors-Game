@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.computer {
+    color: red;
+}
+
+.user {
+    color: blue;
+}
+
+.result {
+    color: green;
+}
+
+#rock {
+    color: white;
+    background-color: brown;
+}
+
+#paper {
+    color: black;
+    background-color: white;
+}
+
+#scissors {
+    color: red;
+    background-color: gray;
+}
