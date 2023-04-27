@@ -3,8 +3,8 @@ const userChoiseDisplay = document.getElementById('user-choise')
 const resultDisplay = document.getElementById('result')
 const possibleChoises = document.querySelectorAll('button')
 
-const userPoint = document.getElementById('user_point')
-const computerPoint = document.getElementById('computer_point')
+const userPoint = document.getElementById('user-point')
+const computerPoint = document.getElementById('computer-point')
 
 let userChoise
 let computerChoise
