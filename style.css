@@ -1,3 +1,9 @@
+body{
+    background-image: url(assets/background-img.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
 .container {
     display: flex;
     flex-direction: column;
@@ -30,4 +36,12 @@
 #scissors {
     color: red;
     background-color: rgb(103, 102, 102);
+}
+
+#computer-point {
+    color: red;
+}
+
+#user-point {
+    color: blue;
 }
